@@ -13,4 +13,12 @@ It seems to be enrollment for college selection
 <h2>Screenshot</h2>
 <h3>Homepage</h3>
 
+![](https://github.com/sudarsan31/Student-Enrollment-System/blob/main/pic1.PNG)
 
+
+
+![](https://github.com/sudarsan31/Student-Enrollment-System/blob/main/pic2.PNG)
+
+<h3>View Your Details</h3>
+
+![](https://github.com/sudarsan31/Student-Enrollment-System/blob/main/pic3.PNG)
